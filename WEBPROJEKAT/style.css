@@ -1,0 +1,27 @@
+
+body {
+	text-align: justify;
+	font-family: arial;
+}
+
+footer {
+	background-color: gray;
+	padding: 2rem;
+	margin-top:2rem;
+	text-align: center;
+	text-transform: uppercase;
+	font-family:arial;
+	border-top:2px solid blue;
+}
+footer a {
+	color:white;
+
+}
+footer a:hover{
+	text-decoration: none;
+	color:purple;
+	box-shadow: 1px 1px blue;
+}
+nav {
+	border-bottom: 2px solid blue;
+}
